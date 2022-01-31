@@ -4,3 +4,9 @@
 ### 1. Movie Recommendation System 
 #### *Content Based Recommendation System [[code]](https://github.com/SandhiyaKumar-18/Content-Based-Movie-Recommendation-System)
 
+### 2.Regression
+#### Flight Price Prediction
+
+### 3.NLP
+#### 1.Fake-news Detection
+#### 
