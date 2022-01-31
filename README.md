@@ -6,7 +6,7 @@
 
 ### 2.Regression
 ####  Flight Price Prediction [[code]](https://github.com/SandhiyaKumar-18/Flight-Price-prediction)
-
+####  Titanic Survival Prediction [[code]](https://github.com/SandhiyaKumar-18/Titanic-Prediction)
 ### 3.NLP
 ####  1.Fake-news Detection[[code]](https://github.com/SandhiyaKumar-18/Fake-News-Detection)
 #### 
