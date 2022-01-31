@@ -5,8 +5,8 @@
 #### *Content Based Recommendation System [[code]](https://github.com/SandhiyaKumar-18/Content-Based-Movie-Recommendation-System)
 
 ### 2.Regression
-#### Flight Price Prediction
+#### Flight Price Prediction [[code]](https://github.com/SandhiyaKumar-18/Fake-News-Detection)
 
 ### 3.NLP
-#### 1.Fake-news Detection
+#### 1.Fake-news Detection[[code]](https://github.com/SandhiyaKumar-18/Fake-News-Detection)
 #### 
