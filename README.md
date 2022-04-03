@@ -1,5 +1,5 @@
 # ML-Projects
-### Here I listed out Machine learning  projects Created by me some projects still needed to be updated
+### Here I listed out some of my Machine learning  projects Created by me some projects still needed to be updated
 
 ### 1.Recommendation System 
 ####  1.Content Based Movie Recommendation System [[code]](https://github.com/SandhiyaKumar-18/Content-Based-Movie-Recommendation-System)
